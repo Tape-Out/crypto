@@ -11,7 +11,7 @@ bus-neutral contracts in [`hwcore`](https://github.com/Tape-Out/hwcore), assembl
 
 ## Status
 
-Planned. The entry in [`index`](https://github.com/Tape-Out/index) tracks what lands when.
+Merged into [`spi`](https://github.com/Tape-Out/spi) as its quad feature. This repository is archived and kept only as a pointer.
 
 ## License
 
